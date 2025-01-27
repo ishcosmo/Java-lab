@@ -1,5 +1,5 @@
 package Assignment2;
-
+// package keyword - any class can be shared locally between all java files of assignment 2
 import java.util.Scanner;
 
 public class question4 {

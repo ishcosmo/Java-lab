@@ -1,4 +1,4 @@
 Java lab file
 Semester 4
-UPES, Dehradun, Uttarakhand,India
+UPES, Dehradun
 By- Ishita 
